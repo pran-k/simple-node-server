@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-server",
+  "version": "0.0.1",
+  "description": "Sample boiler-plate node server application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js $*",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "test",
+    "node",
+    "server"
+  ],
+  "author": "Pranay",
+  "license": "ISC",
+  "dependencies": {}
+}
